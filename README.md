@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://github.com/ibrwhm/Qr-code-card)
-- Live Site URL: [[[Add live site URL here](https://your-live-site-url.com)]](https://ibrwhm.github.io/Qr-code-card/)
+- Solution URL: [https://github.com/ibrwhm/Qr-code-card](https://github.com/ibrwhm/Qr-code-card)]
+- Live Site URL: [https://ibrwhm.github.io/Qr-code-card/](https://ibrwhm.github.io/Qr-code-card/)
 
 ### Built with
 
